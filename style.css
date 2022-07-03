@@ -1,0 +1,21 @@
+#welcome{
+    color: white;
+    background-color: black;
+    margin-right: 30%;
+    margin-left- 30%;
+    text-align: center;
+    font-style: italic;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 10px solid orange;
+    border-radius: 20px;
+}
+.para{
+    color: white;
+    background-color: black;
+    margin-right: 10%;
+    margin-left: 10%;
+    text-align: justify;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    border: 2px solid black;
+}
